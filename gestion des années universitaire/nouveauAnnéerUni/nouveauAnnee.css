@@ -1,0 +1,54 @@
+
+
+
+
+
+
+nav{
+    background-color: teal;
+   
+}
+.nav-link{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+  .jumbotron {
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .jumbotron .container {
+    position: relative;
+    margin-bottom: 50;
+  }
+  
+  .jumbotron h1 {
+    color: #fff;
+    font-size: 48px;  
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+  }
+  
+  .jumbotron p {
+    font-size: 20px;
+    color: #fff;
+  }
+  
+ 
+  .form-valid  {
+    opacity:0.5;
+  }
+  
+  .form-control-label abbr {
+    text-decoration: none;
+    font-weight: normal;
+  }
+  a{
+    font-size: large;
+  }
+  /* button{
+    background-color: teal !important;
+  } */
